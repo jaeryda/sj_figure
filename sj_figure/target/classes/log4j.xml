@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.duck.sh_figure">
+	<logger name="com.duck.sj_figure">
 		<level value="info" />
 	</logger>
 	

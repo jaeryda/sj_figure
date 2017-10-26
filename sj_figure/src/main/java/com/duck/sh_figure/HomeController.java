@@ -1,4 +1,4 @@
-package com.duck.sh_figure;
+package com.duck.sj_figure;
 
 import java.text.DateFormat;
 import java.util.Date;
